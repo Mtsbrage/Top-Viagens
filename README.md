@@ -1,7 +1,8 @@
 # Top Viagens
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![WhatsApp Image 2023-12-09 at 22 16 41](https://github.com/Mtsbrage/Top-Viagens/assets/151493477/3f17ffb3-2b98-4200-ba6f-b482a3114581)
+
 
 # Sobre o Projeto
 

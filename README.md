@@ -17,7 +17,7 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Apresentação]()
+* [Apresentação](#tecnologias-usadas)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Autores](#autores)
 * [Licença](#licença)

@@ -18,7 +18,6 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
@@ -37,15 +36,15 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 - [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1311425058699897540)
 - [Canva](https://www.canva.com/pt_br/)
 - [Microsoft Whiteborad](https://whiteboard.office.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+- Bruno Ariel Godoy Rodriguez
+- Eduardo Gentil Carlotto
+- Gustavo Prestes Zirger
+- Jean Lucca Larrea
+- Leonardo Nogueira Rosa
+- Mateus Quevedo Brage
 
 # Licença
 
@@ -53,4 +52,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Gostariamos de expressar nossa sincera gratidão a todas as pessoas que contribuíram para a realização deste trabalho. Obrigado a todos que de alguma forma tornaram possível a realização deste projeto.

@@ -17,6 +17,7 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Apresentação]()
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -43,6 +44,8 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 - [x] **Aplicativo Móvel:**
       O sistema deve oferecer um aplicativo móvel que permita aos clientes realizar reservas, acessar itinerários e receber atualizações em tempo real. A aplicação deve proporcionar conveniência e acessibilidade, complementando a plataforma web.
 
+# Apresentação
+- link para apresentação: https://youtu.be/b50aND_iGlA
 
 # Tecnologias Usadas
 

@@ -5,10 +5,10 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O Top Viagens visa simplificar o processo de planejamento de viagens para seus clientes, proporcionando facilidades como reservas e informações detalhadas sobre os veículos disponíveis. A plataforma oferece uma interface intuitiva, onde os usuários podem acessar suas contas por meio do CPF e senha, facilitando o agendamento e a comunicação direta com a empresa. Essa abordagem elimina a necessidade de deslocamento até uma agência de viagens para emissão de passagens, proporcionando uma experiência de viagem segura, eficiente e conveniente.
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	
 </h4>
 
 # Índice/Sumário

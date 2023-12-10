@@ -28,17 +28,15 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Cancelar Reserva**
+- [x] **Fazer reserva**
+- [x] **Visualizar reserva**
 
 # Tecnologias Usadas
 
 - [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1311425058699897540)
 - [Canva](https://www.canva.com/pt_br/)
 - [Microsoft Whiteborad](https://whiteboard.office.com/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição

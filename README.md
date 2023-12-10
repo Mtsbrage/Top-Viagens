@@ -35,9 +35,9 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1311425058699897540)
+- [Canva](https://www.canva.com/pt_br/)
+- [Microsoft Whiteborad](https://whiteboard.office.com/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 

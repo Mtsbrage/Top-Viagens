@@ -55,7 +55,7 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 - Bruno Ariel Godoy Rodriguez
 - Eduardo Gentil Carlotto
 - Gustavo Prestes Zirger
-- Jean Lucca Larrea
+- Jean Lucca de Rosa Larrea
 - Leonardo Nogueira Rosa
 - Mateus Quevedo Brage
 

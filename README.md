@@ -25,11 +25,24 @@ O Top Viagens visa simplificar o processo de planejamento de viagens para seus c
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [x] **Cancelar Reserva**
-- [x] **Fazer reserva**
-- [x] **Visualizar reserva**
+- [x] **Personalização de Viagens:**
+      O sistema deve permitir aos usuários personalizar completamente suas viagens, oferecendo opções flexíveis de itinerários, escolha de assentos e serviços adicionais. Isso inclui a liberdade de criar experiências de viagem sob medida, atendendo às necessidades individuais dos clientes.
+
+- [x] **Atendimento Multicanal:**
+      O sistema deve fornecer acesso intuitivo pelo site, além de oferecer atendimento multicanal, incluindo suporte por chat online, e-mail e telefone. Isso garante que os clientes possam obter atendimento de maneira rápida e conveniente, independentemente do canal escolhido.
+
+- [x] **Programa de Fidelidade:**
+      O sistema deve implementar um programa de recompensas, permitindo que os usuários acumulem pontos a cada viagem realizada. Os pontos devem ser trocados ​​por descontos, upgrades ou benefícios exclusivos em reservas futuras, incentivando a fidelidade dos clientes.
+
+- [x] **Segurança e Transparência: **
+      O sistema deve priorizar a segurança dos dados dos clientes, utilizando tecnologias avançadas de criptografia. Além disso, deve fornecer informações claras sobre políticas de cancelamento, taxas e condições de uso, garantindo transparência nas transações.
+
+- [x] **Parcerias Estratégicas:**
+      O sistema deve integrar parcerias estratégicas com companhias aéreas, hotéis e serviços turísticos. Isso garantirá aos usuários acesso a uma ampla variedade de opções e ofertas exclusivas, melhorando a experiência de planejamento de viagens.
+
+- [x] **Aplicativo Móvel:**
+      O sistema deve oferecer um aplicativo móvel que permita aos clientes realizar reservas, acessar itinerários e receber atualizações em tempo real. A aplicação deve proporcionar conveniência e acessibilidade, complementando a plataforma web.
+
 
 # Tecnologias Usadas
 
